@@ -1,52 +1,73 @@
-# Prerequisites
-*.d
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+#!bin/bash                                                 
+#bi:dexter1999                      
+echo -e "\e[1;33m"
+echo "★☣⋙∂ε∂เcα∂σ α ɱเ ɠɾµρσ ∂ε ωɦαƭรαρρ⋘☯★"
+echo ""
+sleep 1
+echo -e "\e[36m B¡ทℯℛℴ₷ ðℯ ☪ℴℛα☡óท ƴ ℳα₷ \e[0m"
+echo -e "\e[1;36m"
+sleep 2
+echo "∂ε∂เcα∂σ α ℓσร α∂ɱเɳเรƭɾα∂σɾεร ∂ε ɱเร ɠɾµρσร ɠɾαcเαร ρεɾɾร"
+echo ""
+sleep 3
 
-# Linker output
-*.ilk
-*.map
-*.exp
+lista=">>∂αɾωเɳ >>ҡαɾɱαɳ >>ɳεɾყ >>ωαɾɳเɳɠ >>ƒεℓเρε >>εℓ ℓเc >>uᴉʌǝꞀ"
 
-# Precompiled Headers
-*.gch
-*.pch
+for i in $lista
+    do
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+    echo "$i"
+done
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
